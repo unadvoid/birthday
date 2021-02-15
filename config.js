@@ -25,11 +25,11 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
    Pictures : {
-        "按时长大": "C:\Users\看鑫鑫\Pictures\Saved Pictures",
-         "岁岁年年，万喜万般宜": "C:\Users\看鑫鑫\Pictures\新建文件夹",
-       "不过是又长大一岁的美女罢了":"C:\Users\看鑫鑫\Pictures\新建文件夹 (2)",
-         "最自由最快乐的鑫鑫":"C:\Users\看鑫鑫\Pictures\新建文件夹 (3)",
-        "最后享受今天的日子":"C:\Users\看鑫鑫\Pictures\xiangpian",
+        "按时长大": "\Pictures\Saved Pictures",
+         "岁岁年年，万喜万般宜": "\看鑫鑫\Pictures\新建文件夹",
+       "不过是又长大一岁的美女罢了":"\看鑫鑫\Pictures\新建文件夹 (2)",
+         "最自由最快乐的鑫鑫":"\看鑫鑫\Pictures\新建文件夹 (3)",
+        "最后享受今天的日子":"\看鑫鑫\Pictures\xiangpian",
        
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
